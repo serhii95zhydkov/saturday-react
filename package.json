@@ -1,5 +1,6 @@
 {
   "name": "my-first-app",
+  "homepage": "https://serhii95zhydkov.github.io/saturday-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
